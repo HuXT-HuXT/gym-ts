@@ -45,7 +45,7 @@ const Home = ({
             }}
           >
             <div className='relative'>
-              <div className='before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetest'>
+              <div className='before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetext'>
                 <img alt="home-page-text" src={HomePageText} />
               </div>
             </div>
